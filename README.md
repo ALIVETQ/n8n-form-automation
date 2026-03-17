@@ -19,7 +19,7 @@ Designed for teams or agencies to automate handling of incoming requests and ass
 
  Workflow File
 
-* Import `workflow.json` into n8n to run this project
+* Import `form submission automation.json` into n8n to run this project
 
 
 🛠️ Tools Used
